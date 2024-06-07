@@ -1,0 +1,2 @@
+cat datei.txt /*Inhalt der Datei anzeigen */
+cat datei.txt datei2.txt
